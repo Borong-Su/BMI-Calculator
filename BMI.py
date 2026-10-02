@@ -1,3 +1,7 @@
+# Author: Borong SU
+# Date: 230 September 2026
+# Description: A simple program for calculating the BMI.
+
 # BMI = weight / (height ** 2)
 
 user_weight = float(input("Please enter your weight (kg): "))
