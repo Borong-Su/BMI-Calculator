@@ -1,4 +1,4 @@
-# Author: Borong SU
+# Author: Borong Su
 # Date: 230 September 2026
 # Description: A simple program for calculating the BMI.
 
